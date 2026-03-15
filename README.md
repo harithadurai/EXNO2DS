@@ -41,7 +41,7 @@ df.set_index("PassengerId",inplace=True)
 
 <img width="1351" height="542" alt="image" src="https://github.com/user-attachments/assets/71aa3195-81b0-420b-922b-caa2d237b1f8" />
 
-df.nunique
+df.unique
 
 
 <img width="1115" height="829" alt="image" src="https://github.com/user-attachments/assets/3c89c6a5-a244-46f3-94f5-fff85d97ec31" />
